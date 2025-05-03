@@ -53,7 +53,7 @@ Une application web destinée à faciliter la prise de notes et la génération 
 ### **GiftSquad (Projet d'Équipe - Avril 2025)**  
 Une application mobile permettant d’organiser des événements cadeaux (Secret Santa, anniversaires, etc.). En tant que **Lead Dev Mobile**, j'ai coordonné les fonctionnalités et assuré la gestion technique de l’application.
 
-[Voir le projet sur GitHub - font](https://github.com/CedrineM/giftsquad-frontend)
+[Voir le projet sur GitHub - front](https://github.com/CedrineM/giftsquad-frontend)
 [Voir le projet sur GitHub - back](https://github.com/CedrineM/giftsquad-backend)
 
 ---
@@ -61,7 +61,7 @@ Une application mobile permettant d’organiser des événements cadeaux (Secret
 
 ## 🧠 Mes Objectifs Actuels
 
-- Travaller sur mon projet personel **MeetEasy**.
+- Travaller sur mon projet personnel **MeetEasy**.
 - Rechercher activement des **opportunités en alternance** pour appliquer mes compétences en entreprise.
 
 ---
